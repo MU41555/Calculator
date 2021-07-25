@@ -1,0 +1,47 @@
+.main_div{
+    background-color: rgb(197, 197, 197);
+    text-align: right;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+} 
+
+.second_div{
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 8px;
+    max-width: 20.7rem;
+    width: 100%;
+    max-height: 29rem;
+    height: 100%;
+    box-shadow: 4px 4px 15px black;
+}
+
+.button_set{
+    width: 4.5rem;
+    height: 3rem;
+    font-size: 1.1rem;
+}
+
+.inp{
+    border: none;
+    text-align: right;
+    outline: none;
+    background-color: black;
+    color: white;
+}
+
+span{
+    text-align: left;
+    font-size: .4rem;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+ p{
+     padding-top: .4rem;
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
